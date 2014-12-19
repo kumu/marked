@@ -1,2 +1,2 @@
-<pre>one</pre>
-two
+<pre>![test](http://abcd.com/image.jpg)</pre>
+markdown
