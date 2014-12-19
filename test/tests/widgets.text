@@ -1,0 +1,9 @@
+[[foo/bar]]
+
+[[foo/bar "title"]]
+
+[[foo/bar?param=1]]
+
+[[foo/bar?param=1 "title"]]
+
+Inline [[foo/bar]]
