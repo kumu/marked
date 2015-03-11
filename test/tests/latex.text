@@ -1,0 +1,17 @@
+This is just a $ sign.
+
+$$\frac{a}{b}$$
+
+$$ \frac{a}{b} $$
+
+Inline $$ \frac{a}{b} $$ test
+
+One $$ \frac{a}{b} $$ two $$ \frac{a}{b} $$ test
+
+$$ f(x) = \int_{-\infty}^\infty
+    \hat f(\xi)\,e^{2 \pi i \xi x}
+    \,d\xi $$
+
+```latex
+\frac{a}{b}
+```
